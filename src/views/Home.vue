@@ -127,7 +127,7 @@ import { products } from '../data/products.js'
 const heroImage = '/vite.jpeg'
 
 // About section image - using a product image as placeholder
-const aboutImage = '/images/Basil.png'
+const aboutImage = '/images/Herbs.png'
 
 // Featured products (first 6)
 const featuredProducts = computed(() => products.slice(0, 6))
